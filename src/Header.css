@@ -2,7 +2,6 @@
     height : 60px;
     display : flex;
     align-items : center;
-
     background-color : #131921;
     position : sticky;
     top : 0;
@@ -41,10 +40,10 @@
     color : white;
     margin-left : 10px;
     margin-right : 10px;
-
-
 }
 .headedr__optionBasket {
+    display : flex;
+    align-items: center;
     color : white;
 }
 .header__basketCount {
